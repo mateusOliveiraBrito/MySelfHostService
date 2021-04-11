@@ -19,22 +19,22 @@ namespace MySelfHostServiceConsoleApplication
                 },
                 new Customer
                 {
-                    CustomerId = 0,
-                    Name = "Mateus",
+                    CustomerId = 1,
+                    Name = "Eduardo",
                     Email = "moliveirabrito@gmail.com",
                     CreditCardNumber = "12345678"
                 },
                 new Customer
                 {
-                    CustomerId = 0,
-                    Name = "Mateus",
+                    CustomerId = 2,
+                    Name = "Diego",
                     Email = "moliveirabrito@gmail.com",
                     CreditCardNumber = "12345678"
                 },
                 new Customer
                 {
-                    CustomerId = 0,
-                    Name = "Mateus",
+                    CustomerId = 3,
+                    Name = "Carlos",
                     Email = "moliveirabrito@gmail.com",
                     CreditCardNumber = "12345678"
                 }
